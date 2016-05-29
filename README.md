@@ -46,4 +46,4 @@ GPS 1.1
 
   11. subl .
 
-  Open the file in sublime text editor 
+  Cats in the sun
